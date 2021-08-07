@@ -1,0 +1,32 @@
+const x = parseInt(prompt("Input Grade: "))
+
+if (x > 95){
+    console.log("A+");
+}
+else if (x > 88)
+{
+    console.log("A");
+}
+else if (x > 84)
+{
+    console.log("B+");
+}
+else if (x > 76)
+{
+    console.log("C+");
+}
+else if (x > 70)
+{
+    console.log("C");
+}
+else if (x > 67)
+{
+    console.log("D+");
+}
+else if (x > 64)
+{
+    console.log("D");
+}
+else {
+    console.log("F")
+}

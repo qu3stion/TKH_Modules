@@ -1,0 +1,21 @@
+let name = prompt("What's your name?");
+let greeting
+greeting =  "Hey " + name;
+console.log(greeting)
+const weekly_inc = parseInt(prompt("How much do you earn weekly?"))
+const food = parseInt(prompt("How much does food cost you weekly?"))
+const housing = parseInt(prompt("How much do living expenses cost you weekly?"))
+const transpo = parseInt(prompt("How much does transportation cost you weekly?"))
+const misc = parseInt(prompt("Outside of the previous expenses, how much more do you spend weekly?"))
+const savings = parseInt(prompt("How much would you like to save in yearly?"))
+const weekly_savings = savings/52
+console.log("As per your annual saving plan, you will be saving " + weekly_savings + " dollars weekly.")
+const weekly_expns = food + housing + transpo + misc
+const disposable_inc = weekly_inc - weekly_expns
+const x = weekly_savings - disposable_inc
+console.log("You have " + disposable_inc + " dollars to spend a week after all of your spending.")
+if (disposable_inc >= weekly_savings){
+    console.log("You're on track to execute your savings plan, " + name + "!")
+}else{
+    console.log("Not quite there yet. You must save " + x + " more dollars a week to reach your annual goal.")
+}
