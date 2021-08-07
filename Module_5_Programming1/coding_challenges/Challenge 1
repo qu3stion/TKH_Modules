@@ -1,0 +1,14 @@
+// Codepen.io link: https://codepen.io/pen/?editors=1111 //
+
+arr1 = ["Wesley Snipes", "Nicholas Cage", "Nasir Jones", "Sean Carter", "Sean Combs", "Michael Jordan", "Patrick Ewing"]
+first_name = arr1[]
+last_name = arr1[]
+for (let i = 0; i < arr1.length; i++){
+   if (arr1[i]){
+   first_name.push(arr1[i])
+}
+  else {
+   last_name.push(arr1[i])
+}
+}
+console.log last_name
