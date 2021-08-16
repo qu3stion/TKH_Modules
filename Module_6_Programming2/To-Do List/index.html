@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="To-Do_List\css.css">
+  </head>
+  <body>
+
+    <div class="header">
+      <h2 style="margin:5px">To Do List</h2>
+      <input type="text" id="myInput" placeholder="Title...">
+      <span onclick="newElement()" class="addBtn">Add</span>
+    </div>
+
+    <ul id="myUL">
+      <li class="checked">Complete TKH_Module_6</li>
+      <li>Practice Coding</li>
+      <li>Do Daily JavaScript Reading</li>
+      <li class="checked">Organise My Room</li>
+      <li>Finish Invisible Man</li>
+      <li>Take Assesment</li>
+      <li>Prepare Dinner</li>
+    </ul>
+    <button type="button" id="clear-list" onclick="removeAll()">Clear List</button>
+
+    <script type="text/javascript" src="To-Do_List\js.js"></script>
+
+  </body>
+</html>
