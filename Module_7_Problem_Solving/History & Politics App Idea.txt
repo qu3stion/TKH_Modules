@@ -1,0 +1,26 @@
+﻿In my community, I notice that the people in it are very disadvantaged. Whether it be health care, housing, or education, there are many facets of life that motivate me to seek a solution. The education disparity has always been the main disadvantage that stood out to me; from a young age, I realized that, in communities like mine, people who weren’t gifted with smarts and weren’t blessed with the right circumstances, many times fall through the proverbial cracks. In wealthier communities, even those who aren’t naturally sharp-thinkers have a very high chance to reach success through a path of education.
+
+
+Moreover, I feel as though history and current politics are two of the more impactful subjects to my community’s social well-being. Many members of my community are not well versed in social studies, through no fault of their own. A lot of urban/inner-city schools do not take the time to truly get the people to understand these things.
+
+
+My app idea does not eliminate the problem, but it does serve to at least change the way my community thinks. This app would have two main components: a historical one and a political one. In the historical component, there would be many features. 
+
+
+Among those features would include: 
+-Interactive timelines 
+-Interactive maps
+-Historical articles/videos of the day
+-Modules and practices from 3rd grade to grad school
+-Scholarly article search and database
+-Overall easier and more rewarding ways to access historical knowledge
+
+
+The political component would include:
+-Unfiltered and unbiased local, national, and worldwide news updates
+-Real time updates on developing policies
+-News and information on political candidates
+-Map/feed of ongoing or planned rallies/protests
+
+
+The overall purpose of my app is to shorten the distances between the members of my community and true knowledge. It is my belief that the biggest factor of intelligence is access, and not natural ability. My goal would be to solidify these parameters and possibly expand into more subjects.
